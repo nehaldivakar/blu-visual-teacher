@@ -1,0 +1,34 @@
+﻿# Python
+__pycache__/
+*.pyc
+venv*/
+.venv/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+node_modules/
+
+# Generated lessons, uploads and test output
+output/
+backend/notes/
+backend/last_plan_raw.json
+backend/test_fast_*.wav
+backend/test_req_*.json
+*.wav
+*.mp4
+*.srt
+
+# Models and secrets (never commit these)
+models/
+*.onnx
+*.bin
+*.safetensors
+.env
+*.token
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

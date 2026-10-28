@@ -1,0 +1,13 @@
+﻿# venv-main: the FastAPI backend, planner, Kokoro voice, export, PDF notes
+fastapi
+uvicorn
+pydantic
+requests
+numpy
+soundfile
+kokoro-onnx
+playwright
+qrcode
+pypdf
+rapidocr-onnxruntime
+pypdfium2

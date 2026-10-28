@@ -1,0 +1,5 @@
+﻿# venv-indic: IndicTrans2 translation worker
+torch
+transformers
+sentencepiece
+IndicTransToolkit

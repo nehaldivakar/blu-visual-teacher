@@ -1,0 +1,6 @@
+﻿# venv-parler: Indian-language voices (Indic Parler-TTS + fast MMS-TTS)
+torch
+transformers
+soundfile
+git+https://github.com/huggingface/parler-tts.git
+uroman
